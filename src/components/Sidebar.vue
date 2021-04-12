@@ -58,22 +58,22 @@ export default {
                 {
                     icon: "el-icon-lx-home",
                     index: "dashboard",
-                    title: "系统首页"
+                    title: "班級管理"
                 },
                 {
                     icon: "el-icon-lx-cascades",
                     index: "table",
-                    title: "基础表格"
+                    title: "公告管理"
                 },
                 {
                     icon: "el-icon-lx-copy",
                     index: "tabs",
-                    title: "tab选项卡"
+                    title: "成績管理"
                 },
                 {
                     icon: "el-icon-lx-calendar",
                     index: "3",
-                    title: "表单相关",
+                    title: "學生管理",
                     subs: [
                         {
                             index: "form",
@@ -102,12 +102,12 @@ export default {
                 {
                     icon: "el-icon-lx-emoji",
                     index: "icon",
-                    title: "自定义图标"
+                    title: "教師管理"
                 },
                 {
                     icon: "el-icon-pie-chart",
                     index: "charts",
-                    title: "schart图表"
+                    title: "繳費管理"
                 },
                 // {
                 //     icon: "el-icon-rank",
