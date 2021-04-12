@@ -1,4 +1,4 @@
-# vue-manage-system
+# contactbook 聯絡簿專案
 
 <a href="https://github.com/vuejs/vue">
     <img src="https://img.shields.io/badge/vue-2.6.10-brightgreen.svg" alt="vue">
@@ -15,6 +15,31 @@
   <a href="https://lin-xin.gitee.io/example/work/#/donate">
     <img src="https://img.shields.io/badge/%24-donate-ff69b4.svg" alt="donate">
   </a>
+
+[專案設計文件](https://drive.google.com/drive/folders/1EGB_Yxj2owYqmkdckAvwbDZMXeWc9N5h?usp=sharing)
+---
+## 版本紀錄
+2019\.04\.06\. 目前專案已設立，首頁開始製作
+
+2019.04.07 流程圖大致完成，僅剩學生管理
+
+---
+## 功能流程
+- 首頁
+  - 登入頁面
+  - 班級管理(預設)
+  - 公告管理
+  - 出勤管理
+  - 訊息系統(以上為第一線老師可用，與APP相同)
+  - 教師管理
+  - 學生管理
+  - 成績管理
+  - 繳費管理
+
+---
+
+
+
 
 基于 Vue3 + Element Plus 的后台管理系统解决方案。[线上地址](https://lin-xin.gitee.io/example/work/)
 
