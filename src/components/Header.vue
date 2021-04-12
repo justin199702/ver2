@@ -7,6 +7,9 @@
         </div>
         <div class="logo">聯絡簿管理系统</div>
         <div class="header-right">
+            <div class="">
+
+            </div>
             <div class="header-user-con">
                 <!-- 消息中心 -->
                 <div class="btn-bell">
@@ -21,6 +24,7 @@
                     </el-tooltip>
                     <span class="btn-bell-badge" v-if="message"></span>
                 </div>
+
                 <!-- 用户头像 -->
                 <div class="user-avator">
                     <img src="../assets/img/img.jpg" />
